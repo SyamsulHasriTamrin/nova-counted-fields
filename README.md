@@ -1,3 +1,6 @@
+# Important
+I am not the author of this package, it is a copy of the Elevate Digital package. I set this up to include in a project when the dependency link was broken on github. 
+
 # Nova Charcounter Fields
 Text and textarea fields with a character counter for Laravel Nova.
 

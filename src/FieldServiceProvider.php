@@ -1,6 +1,6 @@
 <?php
 
-namespace ElevateDigital\CharcountedFields;
+namespace Smartians\CharcountedFields;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Events\ServingNova;

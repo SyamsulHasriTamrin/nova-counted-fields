@@ -10,8 +10,8 @@ You can require this package using composer:
 
 You can add the field with a resolver as follows:
 ```
-use ElevateDigital\CharcountedFields\TextCounted;
-use ElevateDigital\CharcountedFields\TextareaCounted;
+use Smartians\CharcountedFields\TextCounted;
+use Smartians\CharcountedFields\TextareaCounted;
 
 TextCounted::make('Meta title')
 ```

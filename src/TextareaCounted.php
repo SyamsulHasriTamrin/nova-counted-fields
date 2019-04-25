@@ -1,6 +1,6 @@
 <?php
 
-namespace ElevateDigital\CharcountedFields;
+namespace Smartians\CharcountedFields;
 
 class TextareaCounted extends FieldCounted
 {

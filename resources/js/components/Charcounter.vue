@@ -12,13 +12,13 @@
             indicatorClass: function () {
                 if (this.maxChars) {
                     if (this.value.length > this.maxChars) {
-                        return 'text-danger';
+                        return 'text-warning';
                     }
                 }
 
                 if (this.warningThreshold) {
                     if (this.value.length > this.warningThreshold) {
-                        return 'text-orange';
+                        return 'text-primary';
                     }
                 }
 
